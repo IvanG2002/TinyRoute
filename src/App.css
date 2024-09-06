@@ -1,0 +1,25 @@
+.header {
+    height: 60px;
+    border-bottom: 1px solid #cecece;
+    background-color: #fff;
+}
+
+.header__dashboard {
+    height: 60px;
+    background-color: #fff;
+}
+
+.sub__header {
+    background: #fff;
+    border-bottom: 1px solid #cecece;
+    padding: 10px;
+    box-shadow: 0 10px 15px rgba(206, 206, 206, 0.1);
+}
+
+.issue {
+    border-bottom: 2px dotted #cecece;
+}
+
+.main {
+    height: calc(100vh - 170px);
+}
