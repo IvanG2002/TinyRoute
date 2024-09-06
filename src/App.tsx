@@ -117,7 +117,7 @@ function App() {
           <div className="text-xs font-semibold lg:text-lg text-center">TinyRoute is a user-friendly, open-source platform for creating, managing, and sharing compact links. It’s quick, secure, and optimized for seamless navigation.</div>
           <div className='flex gap-2 lg:items-center lg:justify-center'>
             <Link to="dashboard"><Button><img className='mr-1 text-white' src="./link.svg" alt="link icon" height={20} width={20} />Get Started</Button></Link>
-            <Button variant={'outline'}> <img className='mr-1' src="./github.svg" alt="git hub" height={20} width={20} /><a href="">Start on Github</a></Button>
+            <Button variant={'outline'}> <img className='mr-1' src="./github.svg" alt="git hub" height={20} width={20} /><a href="https://github.com/IvanG2002/TinyRoute">Start on Github</a></Button>
           </div>
         </div>
       </main>
